@@ -14,7 +14,7 @@ export default defineConfig({
   outDir: 'dist',
   cacheDir: './node_modules/vitepress_cache',
   description:
-    '我是kakahikari，我會在這裡紀錄工作上的筆記、生活上的分享、買過的東西',
+    '我是evadzala，我會在這裡紀錄工作上的筆記、分享生活及想法',
   // https://vitepress.dev/zh/reference/default-theme-config#lastupdated
   lastUpdated: true,
   ignoreDeadLinks: true,
@@ -28,7 +28,7 @@ export default defineConfig({
     },
   },
   sitemap: {
-    hostname: 'https://kakahikari.github.io/',
+    hostname: 'https://evadzala.github.io/',
   },
 
   head: [
@@ -54,7 +54,7 @@ export default defineConfig({
   transformPageData(pageData) {
     const head = []
     // TODO: 應該作為參數
-    const defaultOGImage = 'https://kakahikari.github.io/logo.png'
+    const defaultOGImage = 'https://evadzala.github.io/logo.png'
 
     if (pageData.frontmatter.meta) {
       pageData.frontmatter.meta.forEach(item => {
@@ -85,7 +85,7 @@ export default defineConfig({
   themeConfig: {
     posts: await getPosts(pageSize),
     // copyright url
-    siteUrl: 'https://kakahikari.github.io',
+    siteUrl: 'https://evadzala.github.io',
     // copyright logo
     // footerLogo: 'logo.webp',
     // https://vitepress.dev/zh/reference/default-theme-nav
@@ -96,7 +96,7 @@ export default defineConfig({
       { text: 'Tags', link: '/pages/tags' },
       { text: 'About', link: '/pages/about' },
     ],
-    socialLinks: [{ icon: 'github', link: 'https://github.com/kakahikari' }],
+    socialLinks: [{ icon: 'github', link: 'https://github.com/evadzala' }],
     search: {
       provider: 'local',
     },

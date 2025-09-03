@@ -11,16 +11,12 @@ comment: false
 
 ![avatars](https://avatars.githubusercontent.com/u/15136480)
 
-`CODE_NAME: kakahikari`
+`CODE_NAME: evadzala`
 
 <hr>
 
-做網頁的那種
+就是個工程師
 
-找個地方紀錄工作上的筆記、生活上的分享、買過的東西
+找個地方紀錄工作上的筆記、分享生活及想法
 
-不太擅長畫畫
-
-漸漸地無法回想起過往的種種
-
-於是決定在世界上留點什麼
+因為某些原因所以用文字記錄所見所聞

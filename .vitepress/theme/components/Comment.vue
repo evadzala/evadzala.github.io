@@ -16,7 +16,7 @@ const giscusTheme = computed(() => {
 
 // TODO: repo等資訊 應該要由config傳入
 const giscusConfig = {
-  repo: 'kakahikari/kakahikari.github.io',
+  repo: 'evadzala/evadzala.github.io',
   repoId: 'R_kgDOIfJpug',
   category: 'Announcements',
   categoryId: 'DIC_kwDOIfJpus4Ctk3i',
