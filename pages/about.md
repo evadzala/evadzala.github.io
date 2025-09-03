@@ -9,7 +9,7 @@ comment: false
 
 # About Me
 
-![avatars](https://avatars.githubusercontent.com/u/15136480)
+![avatars](https://avatars.githubusercontent.com/u/30425556)
 
 `CODE_NAME: evadzala`
 
