@@ -6,26 +6,18 @@
       :class="{ active: selectTag === key }"
       :on-click="() => toggleTag(key)"
     >
-      {{ key }}<strong>{{ data[key].length }}</strong>
+      {{ key }}<strong class="badge">{{ data[key].length }}</strong>
     </PostTag>
   </div>
-  <div class="tag-header">{{ selectTag }}</div>
-  <a
-    v-for="(post, index) in (selectTag && data[selectTag]) || []"
-    :key="index"
-    :href="withBase(post.regularPath)"
-    class="posts"
-  >
-    <div class="post-container">
-      <div class="post-dot"></div>
-      {{ post.frontMatter.title }}
-    </div>
-    <div class="date">{{ post.frontMatter.date }}</div>
-  </a>
+  <template v-if="selectTag">
+    <hr />
+    <div class="tag-title">{{ selectTag }}</div>
+    <PostList :posts="(selectTag && data[selectTag]) || []" />
+  </template>
 </template>
 
 <script lang="ts" setup>
-import { useData, withBase } from 'vitepress'
+import { useData } from 'vitepress'
 import { computed, ref } from 'vue'
 
 import { initTags } from '../functions'
@@ -37,7 +29,20 @@ const { theme } = useData()
 const data = computed<Record<string, Post[]>>(() => initTags(theme.value.posts))
 const selectTag = ref(params.get('tag') || '')
 const toggleTag = (tag: string | number) => {
-  selectTag.value = String(tag)
+  const tagStr = String(tag)
+  const newTag = selectTag.value === tagStr ? '' : tagStr
+  selectTag.value = newTag
+
+  const currentUrl = new URLSearchParams(location.search)
+  if (newTag) {
+    currentUrl.set('tag', newTag)
+  } else {
+    currentUrl.delete('tag')
+  }
+  const newUrl =
+    location.pathname +
+    (currentUrl.toString() ? '?' + currentUrl.toString() : '')
+  window.history.pushState({}, '', newUrl)
 }
 </script>
 
@@ -45,51 +50,27 @@ const toggleTag = (tag: string | number) => {
 .tags {
   display: flex;
   flex-wrap: wrap;
-  margin-top: 14px;
+  margin: var(--block-margin) 0;
   gap: var(--inline-gap);
 }
 
-.tags :deep(.post-tag strong) {
-  margin-left: 4px;
-  padding: 1px 4px;
+.tags :deep(.post-tag .badge) {
+  margin-left: calc(var(--inline-gap) / 2);
+  padding: 0 4px;
   border-radius: 6px;
-  background-color: rgba(0, 0, 0, 0.1);
+  background-color: var(--tag-badge-bg);
+  color: var(--tag-text);
   font-weight: 600;
   font-size: 10px;
-  line-height: 1;
 }
 
 .tags :deep(.post-tag.active) {
   border-color: var(--vp-c-brand-1);
-  background-color: var(--vp-c-brand-1);
-  color: white;
 }
 
-.tags :deep(.post-tag.active strong) {
-  background-color: rgba(255, 255, 255, 0.2);
-  color: white;
-}
-
-.tags :deep(.post-tag.active:hover) {
-  background-color: var(--vp-c-brand-1);
-  color: white;
-  filter: brightness(1.1);
-}
-
-.tag-header {
-  margin: 1rem 0;
-  font-weight: 500;
+.tag-title {
+  margin: 1rem 0 0.5rem;
+  font-weight: 800;
   font-size: 1.5rem;
-  text-align: left;
-}
-
-/* TODO: 媒體查詢無法使用變數的替代方案 */
-@media screen and (max-width: 768px) {
-  .tag-header {
-    font-size: 1.5rem;
-  }
-  .date {
-    font-size: 0.75rem;
-  }
 }
 </style>

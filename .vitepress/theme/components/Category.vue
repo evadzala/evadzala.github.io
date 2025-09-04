@@ -1,25 +1,14 @@
 <template>
-  <div v-for="(posts, key) in data" :key="key">
-    <div class="category">
+  <div v-for="(posts, key) in data" :key="key" class="category-group">
+    <div class="category-title">
       {{ key }}
     </div>
-    <a
-      v-for="(post, index) in posts"
-      :key="index"
-      :href="withBase(post.regularPath)"
-      class="posts"
-    >
-      <div class="post-container">
-        <div class="post-dot"></div>
-        {{ post.frontMatter.title }}
-      </div>
-      <div class="date">{{ post.frontMatter.date.slice(5) }}</div>
-    </a>
+    <PostList :posts="posts" />
   </div>
 </template>
 
 <script lang="ts" setup>
-import { useData, withBase } from 'vitepress'
+import { useData } from 'vitepress'
 import { computed } from 'vue'
 
 import { initCategory } from '../functions'
@@ -32,10 +21,12 @@ const data = computed<Record<string, Post[]>>(() =>
 </script>
 
 <style scoped>
-.category {
-  padding: 14px 0 8px 0;
-  font-weight: 500;
-  font-size: 1.25rem;
-  font-family: var(--date-font-family);
+.category-group {
+  margin-bottom: var(--block-margin);
+}
+.category-title {
+  margin: 1rem 0 0.5rem;
+  font-weight: 800;
+  font-size: 1.5rem;
 }
 </style>

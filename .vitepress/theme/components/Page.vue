@@ -21,6 +21,16 @@
         <p class="describe">{{ post.frontMatter.description }}</p>
         <div class="post-info">
           <PostDate :date="post.frontMatter.date" />
+          <PostCategory
+            v-if="post.frontMatter.category"
+            :href="
+              withBase(
+                `/pages/category.html?category=${post.frontMatter.category}`,
+              )
+            "
+          >
+            {{ post.frontMatter.category }}
+          </PostCategory>
           <PostTag
             v-for="item in post.frontMatter.tags"
             :key="item"
@@ -102,6 +112,16 @@ const getOgImage = (post: Post): string | undefined => {
   margin: 0.1rem 0;
   font-weight: 500;
   font-size: 1.125rem;
+}
+
+.post-title a {
+  margin: 0;
+  color: var(--post-title-color);
+  text-decoration: none;
+}
+
+.post-title a:hover {
+  color: color-mix(in srgb, var(--post-title-color), var(--vp-c-brand-1));
 }
 
 .post-cover-desktop {
