@@ -1,7 +1,7 @@
 ---
 date: 2024-03-17
 title: 東京自由行戰利品-鎌倉行下篇之江之島
-category: 生活
+category: 旅行
 description: 東京自由行戰利品-鎌倉行下篇之江之島
 meta:
   - property: og:image
