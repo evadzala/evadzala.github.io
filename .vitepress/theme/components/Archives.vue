@@ -17,6 +17,7 @@ import { computed } from 'vue'
 
 import { useYearSort } from '../functions'
 import type { Post } from '../types'
+import PostList from './PostList.vue'
 
 const { theme } = useData()
 const data = computed<Post[][]>(() => useYearSort(theme.value.posts))
