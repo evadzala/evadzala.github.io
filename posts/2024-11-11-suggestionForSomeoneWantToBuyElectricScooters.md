@@ -5,7 +5,7 @@ category: 生活
 description: 給想買滑板車的人一些建議
 meta:
   - property: og:image
-    content: https://kakahikari.github.io/2025-08-29-kobe-suma-seaworld/cover.jpg
+    content:
 ---
 
 # 給想買滑板車的人一些建議
