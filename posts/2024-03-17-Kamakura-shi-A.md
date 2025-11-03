@@ -2,6 +2,8 @@
 date: 2024-03-17
 title: 東京自由行戰利品-鎌倉行上篇之和服體驗
 category: 旅行
+tags:
+  - 日本
 description: 東京自由行戰利品-鎌倉行上篇之和服體驗
 meta:
   - property: og:image

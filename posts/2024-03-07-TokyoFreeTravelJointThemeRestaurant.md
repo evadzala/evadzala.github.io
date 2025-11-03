@@ -2,6 +2,8 @@
 date: 2024-03-07
 title: 東京自由行戰利品-聯名主題餐廳篇
 category: 旅行
+tags:
+  - 日本
 description: 東京自由行戰利品-聯名主題餐廳篇
 meta:
   - property: og:image

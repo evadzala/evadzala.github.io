@@ -3,7 +3,7 @@ date: 2023-06-09
 title: 共食文化
 category: 生活
 tags:
-  - 旅遊
+  - 文化
   - 日本
 description: 共食文化
 meta:
