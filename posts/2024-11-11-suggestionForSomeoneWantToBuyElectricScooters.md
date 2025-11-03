@@ -5,10 +5,13 @@ category: 生活
 description: 給想買滑板車的人一些建議
 meta:
   - property: og:image
-    content:
+    content: https://duk.tw/IK6pkB.png
+
 ---
 
 # 給想買滑板車的人一些建議
+
+![](https://duk.tw/IK6pkB.png)
 
 在前公司時，因為免費的停車位離辦公室有些距離，所以買了電動滑板車來縮短步行的時間，因為有了經驗，後續也有朋友或同事來詢問電動滑板車相關問題，在此做個心得分享
 
