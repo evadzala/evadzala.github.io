@@ -2,16 +2,15 @@
 date: 2023-05-08
 title: 人選之人-造浪者
 category: 心得
+tags:
+  - 台劇
 description: 人選之人-造浪者
 meta:
   - property: og:image
-    content: https://hackmd.io/_uploads/BJy5pfSRgx.png
+    content: https://duk.tw/l81hcR.png
 ---
 
-# 人選之人-造浪者
-
-![ca8a25fd-4113-4513-9d0f-e595e58ecfb4](https://hackmd.io/_uploads/BJy5pfSRgx.png)
-
+![](https://duk.tw/l81hcR.png)
 
 其實這篇心得文早該在兩週前就寫完，因為陸續看到許多心得文和導演及演員的訪談值得一看，絕對不是因為王國之淚太好玩。
 
