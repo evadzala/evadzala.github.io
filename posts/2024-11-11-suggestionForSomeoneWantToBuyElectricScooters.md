@@ -2,6 +2,9 @@
 date: 2024-11-11
 title: 給想買滑板車的人一些建議
 category: 生活
+tags:
+  - 交通
+  - 科技
 description: 給想買滑板車的人一些建議
 meta:
   - property: og:image
