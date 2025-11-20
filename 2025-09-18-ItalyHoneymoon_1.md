@@ -1,3 +1,15 @@
+---
+date: 2025-09-18
+title: 義大利蜜月旅行 其之一
+category: 旅行
+tags:
+  - 義大利
+description: 前言/Day1/Day2
+meta:
+  - property: og:image
+    content: https://duk.tw/FXSohE.jpg
+---
+
 ## 前言
 <!-- ![截圖 2025-10-19 下午4.09.31](https://hackmd.io/_uploads/ryrB6zzCeg.png) -->
 ![](https://duk.tw/uW8gPW.png)
