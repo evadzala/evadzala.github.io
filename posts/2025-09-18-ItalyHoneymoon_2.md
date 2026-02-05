@@ -7,7 +7,7 @@ tags:
 description: Day3/Day4
 meta:
   - property: og:image
-    content: https://duk.tw/F3Mzak.jpg
+    content: https://duk.tw/pPuMg5.jpg
 ---
 
 ## Day3
