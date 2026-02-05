@@ -7,7 +7,7 @@ tags:
 description: Day5/Day6
 meta:
   - property: og:image
-    content: https://duk.tw/uQvc16.jpg
+    content: https://duk.tw/GMGYjf.jpg
 ---
 
 ## Day5
