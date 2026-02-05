@@ -7,7 +7,7 @@ tags:
 description: 前言/Day1/Day2
 meta:
   - property: og:image
-    content: https://duk.tw/FXSohE.jpg
+    content: https://duk.tw/YG6cmg.jpg
 ---
 
 ## 前言
