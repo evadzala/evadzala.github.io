@@ -20,3 +20,4 @@ pnpm-debug.log*
 # vitepress build output & temp files
 dist/
 /*.md
+package-lock.json
