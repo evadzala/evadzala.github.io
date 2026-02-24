@@ -96,7 +96,7 @@ export default defineConfig({
       { text: 'Tags', link: '/pages/tags' },
       { text: 'About', link: '/pages/about' },
     ],
-    socialLinks: [{ icon: 'github', link: 'https://github.com/evadzala' }],
+    socialLinks: [{ icon: 'github', link: 'https://github.com/evadzala/evadzala.github.io' }],
     search: {
       provider: 'local',
     },
