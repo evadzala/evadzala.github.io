@@ -21,9 +21,9 @@
         </PostTag>
       </div>
     </template>
-    <template #doc-bottom>
+    <!-- <template #doc-bottom>
       <Comment v-if="shouldShowComment" />
-    </template>
+    </template> -->
   </Layout>
   <Copyright />
 </template>
