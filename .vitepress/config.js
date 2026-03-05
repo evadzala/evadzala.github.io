@@ -9,7 +9,7 @@ const pageSize = 10
 const googleAnalyticsId = process.env.GOOGLE_ANALYTICS_ID || ''
 
 export default defineConfig({
-  title: `evadzala's notes`,
+  title: `evadzala's Blog`,
   base: '/',
   outDir: 'dist',
   cacheDir: './node_modules/vitepress_cache',

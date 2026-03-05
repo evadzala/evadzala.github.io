@@ -1,7 +1,7 @@
 {
   "name": "evadzala.github.io",
   "version": "0.0.0",
-  "description": "evadzala's blog",
+  "description": "evadzala's Blog",
   "main": "index.js",
   "scripts": {
     "dev": "vitepress dev --host 0.0.0.0",
