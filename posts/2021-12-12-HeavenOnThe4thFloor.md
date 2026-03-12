@@ -8,11 +8,12 @@ tags:
 description: 我只是個推拿的
 meta:
   - property: og:image
-    content: https://duk.tw/DoNnN3.jpg
-
+    content: https://hackmd.io/_uploads/rkdyXyl9bx.jpg
 ---
 
-![](https://duk.tw/DoNnN3.jpg)
+<!-- ![](https://duk.tw/DoNnN3.jpg) -->
+
+![](https://hackmd.io/_uploads/rkdyXyl9bx.jpg)
 
 最近看完了[四樓的天堂]，真心覺得這個題材真的很棒，想寫一些感想。
 

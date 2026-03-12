@@ -8,7 +8,7 @@ tags:
 description: 共食文化
 meta:
   - property: og:image
-    content: https://duk.tw/wXJ5Rk.jpg
+    content: https://hackmd.io/_uploads/Hyw11-xq-g.jpg
 ---
 
 趁著快沒人關注的時候想小聊一下對蔡阿嘎事情的看法。
@@ -19,4 +19,6 @@ meta:
 
 日本是很重視「氣氛」的民族，不單單只是「讀空氣」這件事，連整個周遭的氛圍和整體情緒都很重視，讓你覺得你吃的不只是「料理」而是整個料理人所製造的「氣氛」，即便只是小小的餐車，也是用心準備的空間，我們既然到了異地就要入境隨俗，或許蔡阿嘎這次踩到這個雷點大家覺得很不應該，但我認為從中我們也要反省和注意，下次到了日本，別犯了這些錯，才可以彌補良好的「國民外交」。
 
-![](https://duk.tw/wXJ5Rk.jpg)
+<!-- ![](https://duk.tw/wXJ5Rk.jpg) -->
+
+![](https://hackmd.io/_uploads/Hyw11-xq-g.jpg)
