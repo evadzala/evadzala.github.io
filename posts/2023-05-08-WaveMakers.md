@@ -10,8 +10,6 @@ meta:
     content: https://hackmd.io/_uploads/S1sxE-eq-e.png
 ---
 
-<!-- ![](https://duk.tw/l81hcR.png) -->
-
 ![](https://hackmd.io/_uploads/S1sxE-eq-e.png)
 
 其實這篇心得文早該在兩週前就寫完，因為陸續看到許多心得文和導演及演員的訪談值得一看，絕對不是因為王國之淚太好玩。
