@@ -1,6 +1,12 @@
 import { defineConfig } from 'vitepress'
-
 import { getPosts } from './theme/serverUtils'
+import fs from 'fs'
+import path from 'path'
+import { fileURLToPath } from 'url'
+
+// 解決 ESM 環境下沒有 __dirname 的問題
+const __filename = fileURLToPath(import.meta.url)
+const __dirname = path.dirname(__filename)
 
 // 每頁的文章數量
 const pageSize = 10
@@ -26,6 +32,36 @@ export default defineConfig({
     image: {
       lazyLoading: true,
     },
+    config: (md) => {
+      const defaultRender = md.renderer.rules.image || function (tokens, idx, options, env, self) {
+        return self.renderToken(tokens, idx, options);
+      };
+
+      md.renderer.rules.image = (tokens, idx, options, env, self) => {
+        const token = tokens[idx];
+        const srcIndex = token.attrIndex('src');
+        const url = token.attrs[srcIndex][1];
+        const alt = token.content;
+
+        // 匹配 HackMD 網址結構
+        const hackMDMatch = url.match(/https:\/\/hackmd\.io\/_uploads\/([a-zA-Z0-9_-]+\.(jpg|jpeg|png|gif|webp))/);
+
+        if (hackMDMatch) {
+          const fileName = hackMDMatch[1];
+          // 指向你專案中的 public/images 資料夾
+          // 注意：路徑需根據你 config.js 的實際位置調整，通常是 ../public/images
+          const localFilePath = path.resolve(__dirname, '../public/images', fileName);
+          
+          // 檢查檔案是否存在
+          const exists = fs.existsSync(localFilePath);
+          const finalSrc = exists ? `/images/${fileName}` : '/images/NoImage.png';
+
+          return `<img src="${finalSrc}" alt="${alt}" loading="lazy">`;
+        }
+
+        return defaultRender(tokens, idx, options, env, self);
+      };
+    }
   },
   sitemap: {
     hostname: 'https://evadzala.github.io/',
