@@ -7,7 +7,7 @@ tags:
 description: 東京自由行戰利品-鎌倉行上篇之和服體驗
 meta:
   - property: og:image
-    content: 
+    content: https://hackmd.io/_uploads/HkVrEHbqZl.jpg
 ---
 
 # 東京自由行戰利品-鎌倉行上篇之和服體驗
@@ -27,22 +27,21 @@ meta:
 目的地報國寺，有著不輸京都嵐山竹林步道的竹林小徑，素有「竹寺」之稱，只需支付300円便可入園，園內有著富有禪意的「枯山水」造景，在靜謐的庭院後方有一面山壁，山壁裡面據說安葬著幾位武士。在報國寺簡單的參拜後就回程往鶴岡八幡宮，拓也桑也跟我們閒聊了接下來幾天安排去哪玩，得知了我們還要去吉卜力的三鷹之森美術館，他就說他很喜歡紅豬並問我們喜歡什麼，我們說了天空之城，他就唱了起來，我們也跟著哼，會拍照又會唱歌的拓也桑真的是多才多藝
 
 回到若宮大路，我們吃了拓也桑介紹的蕎麥麵當作午餐，熱呼呼的蕎麥麵恢復了我們冰冷手指的知覺，完食後便前往鶴岡八幡宮參拜，裡面有著簡易的千本鳥居，不過因為天氣真的太濕冷，我們簡單拍個照、快速買了御守後就換回日常服，前往下一站江之島
-![497779345_10010652918957309_5532975039085112015_n](https://hackmd.io/_uploads/ryRNEBZ9We.jpg)
-![497817200_10010652798957321_4385823081357175898_n](https://hackmd.io/_uploads/HkVrEHbqZl.jpg)
-![498171362_10010652968957304_4228469745391214436_n](https://hackmd.io/_uploads/HkhBEBb5Zl.jpg)
-![497852739_10010652908957310_4179005626598460287_n](https://hackmd.io/_uploads/B1mLVrbqbe.jpg)
-![498951319_10010652738957327_3222614608476233682_n](https://hackmd.io/_uploads/H1jINrWq-e.jpg)
-![498203275_10010652912290643_313132961419746656_n](https://hackmd.io/_uploads/BkfwNSW5-e.jpg)
-![499162284_10010652745623993_2516811743601928283_n](https://hackmd.io/_uploads/r1oPNS-qbl.jpg)
-![497610644_10010653008957300_4120126383394991382_n](https://hackmd.io/_uploads/BkfOVBZ5Zx.jpg)
-![498997346_10010652748957326_5138777941899656759_n](https://hackmd.io/_uploads/rJduVHb9Wl.jpg)
-![498954039_10010652892290645_1221956666061236849_n](https://hackmd.io/_uploads/rkzYNSWc-e.jpg)
-![497634285_10010653075623960_7569034237752641004_n](https://hackmd.io/_uploads/SJqtVSW5bl.jpg)
-![498926386_10010652965623971_781508767885190841_n](https://hackmd.io/_uploads/B1-54rW9Zl.jpg)
-![497669036_10010653068957294_1895998385691268762_n](https://hackmd.io/_uploads/r1u9Vrb9-l.jpg)
-![497648329_10010653125623955_7375640139010443405_n](https://hackmd.io/_uploads/rk8iEH-9-x.jpg)
-![498926386_10010653172290617_253750839672165174_n](https://hackmd.io/_uploads/BkosNr-cbx.jpg)
-![498317228_10010652752290659_4860356401461546512_n](https://hackmd.io/_uploads/H1fhErZc-g.jpg)
-![497739731_10010652905623977_8465942807192376427_n](https://hackmd.io/_uploads/ryvhNS-5We.jpg)
-![498133734_10010652915623976_2571249284404677388_n](https://hackmd.io/_uploads/Hy6hVBZq-g.jpg)
-
+![](https://hackmd.io/_uploads/ryRNEBZ9We.jpg)
+![](https://hackmd.io/_uploads/HkVrEHbqZl.jpg)
+![](https://hackmd.io/_uploads/HkhBEBb5Zl.jpg)
+![](https://hackmd.io/_uploads/B1mLVrbqbe.jpg)
+![](https://hackmd.io/_uploads/H1jINrWq-e.jpg)
+![](https://hackmd.io/_uploads/BkfwNSW5-e.jpg)
+![](https://hackmd.io/_uploads/r1oPNS-qbl.jpg)
+![](https://hackmd.io/_uploads/BkfOVBZ5Zx.jpg)
+![](https://hackmd.io/_uploads/rJduVHb9Wl.jpg)
+![](https://hackmd.io/_uploads/rkzYNSWc-e.jpg)
+![](https://hackmd.io/_uploads/SJqtVSW5bl.jpg)
+![](https://hackmd.io/_uploads/B1-54rW9Zl.jpg)
+![](https://hackmd.io/_uploads/r1u9Vrb9-l.jpg)
+![](https://hackmd.io/_uploads/rk8iEH-9-x.jpg)
+![](https://hackmd.io/_uploads/BkosNr-cbx.jpg)
+![](https://hackmd.io/_uploads/H1fhErZc-g.jpg)
+![](https://hackmd.io/_uploads/ryvhNS-5We.jpg)
+![](https://hackmd.io/_uploads/Hy6hVBZq-g.jpg)
