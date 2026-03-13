@@ -42,7 +42,8 @@ meta:
 
 3. 離館前我們點了下午茶:賢者之石提拉米蘇和一瓶很漂亮的飲料,菜單是寫Niffler's Bounty,翻譯的話要叫玻璃獸的錢錢(?)當下午茶,地點就在入口處的右手邊
 ![497748932_10007788912577043_7539500268220558521_n](https://hackmd.io/_uploads/HyE81Hbcbe.jpg)
-![rJzE1rbc](https://hackmd.io/_uploads/r1wUJSWc-e.jpg)
+![r1wUJSWc](https://hackmd.io/_uploads/Hk6M9uZ5Wl.jpg)
+
 
 ### 02/26-魔物獵人主題餐廳
 1. 我們在出發前就先訂位,並且點了預約限定的"狩王3種（飛竜、獣竜、海竜）肉盛りプレート",出發前看照片擔心分量不多,沒想到實際上菜後發現兩個人吃這道就會飽了
