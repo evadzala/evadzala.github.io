@@ -43,18 +43,28 @@ export default defineConfig({
         const url = token.attrs[srcIndex][1];
         const alt = token.content;
 
-        // 匹配 HackMD 網址結構
-        const hackMDMatch = url.match(/https:\/\/hackmd\.io\/_uploads\/([a-zA-Z0-9_-]+\.(jpg|jpeg|png|gif|webp))/);
+        // 1. 定義支援的圖床關鍵字 (白名單)
+        const allowedHosts = ['hackmd.io/_uploads/', 'duk.tw/'];
+        
+        // 2. 檢查目前圖片網址是否包含在白名單內
+        const isTargetHost = allowedHosts.some(host => url.includes(host));
 
-        if (hackMDMatch) {
-          const fileName = hackMDMatch[1];
-          // 指向你專案中的 public/images 資料夾
-          // 注意：路徑需根據你 config.js 的實際位置調整，通常是 ../public/images
+        if (isTargetHost) {
+          // 3. 提取網址最後一部分作為檔名 (例如: SJHvlZlc-x.jpg)
+          const fileName = url.split('/').pop();
+          
+          // 指向本地 public/images
           const localFilePath = path.resolve(__dirname, '../public/images', fileName);
           
-          // 檢查檔案是否存在
-          const exists = fs.existsSync(localFilePath);
-          const finalSrc = exists ? `/images/${fileName}` : '/images/NoImage.png';
+          // 4. 同步檢查檔案是否存在
+          let finalSrc = '/images/NoImage.png';
+          try {
+            if (fs.existsSync(localFilePath)) {
+              finalSrc = `/images/${fileName}`;
+            }
+          } catch (e) {
+            // 發生錯誤預設回傳 NoImage
+          }
 
           return `<img src="${finalSrc}" alt="${alt}" loading="lazy">`;
         }
