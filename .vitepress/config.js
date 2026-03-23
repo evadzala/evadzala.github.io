@@ -15,6 +15,7 @@ const pageSize = 10
 const googleAnalyticsId = process.env.GOOGLE_ANALYTICS_ID || ''
 
 export default defineConfig({
+  lang: 'zh-TW',
   title: `evadzala's Blog`,
   base: '/',
   outDir: 'dist',
