@@ -7,7 +7,7 @@ tags:
 description: 韓劇-少年法庭
 meta:
   - property: og:image
-    content: https://hackmd.io/_uploads/BJwdcgx5Wg.jpg
+    content: images/BJwdcgx5Wg.jpg
 ---
 
 <!-- ![](https://duk.tw/LI373B.jpg) -->

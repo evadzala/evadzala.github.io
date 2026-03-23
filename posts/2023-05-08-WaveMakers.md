@@ -7,7 +7,7 @@ tags:
 description: 人選之人-造浪者
 meta:
   - property: og:image
-    content: https://hackmd.io/_uploads/HkNdxtW9be.jpg
+    content: images/HkNdxtW9be.jpg
 ---
 
 ![](https://hackmd.io/_uploads/HkNdxtW9be.jpg)

@@ -7,12 +7,14 @@ tags:
 description: Day5/Day6
 meta:
   - property: og:image
-    content: https://duk.tw/GMGYjf.jpg
+    content: images/GMGYjf.jpg
 ---
 
 ## Day5
+
 早上起來吃早餐時才知道，我們的住宿地點跨一條馬路過去就是亞得里亞海，用餐區有分內外，走到外頭可以看見晴朗的海面，在匆忙的行程種感覺到一絲的優閒。
 ![](https://duk.tw/1QzTdY.jpg)
+
 <!-- ![20250922_074913](https://hackmd.io/_uploads/r1jf-bZyWg.jpg) -->
 
 阿爾貝羅貝洛的蘑菇村於1996年被聯合國文教組織列為世界遺產，其獨特的圓柱屋牆上面有著圓錐狀的屋頂，看似蘑菇而得名，整個蘑菇村都以白牆以及扁平石堆疊屋頂，屋頂上還有各種不同的符號，不同的符號有著不同的意義，整體村莊色調相當一致，一眼看過去感覺來到童話小鎮，有些屋子至今都還有住人，街道皆為徒步區，除了許多紀念品店以外，還有看到職人工匠現場製作迷你版的蘑菇村小屋。
@@ -22,6 +24,7 @@ meta:
 ![](https://duk.tw/IOBNzH.jpg)
 ![](https://duk.tw/UT62PB.jpg)
 ![](https://duk.tw/QGlyPk.jpg)
+
 <!-- ![IMG_5758](https://hackmd.io/_uploads/rkTuIbWJZl.jpg)
 ![IMG_5766](https://hackmd.io/_uploads/BJ6OLWW1be.jpg)
 ![IMG_5778](https://hackmd.io/_uploads/Bk6_I-ZJZx.jpg)
@@ -33,6 +36,7 @@ meta:
 ![](https://duk.tw/di5xJ2.jpg)
 ![](https://duk.tw/Mm3saW.jpg)
 ![](https://duk.tw/V4zQZB.jpg)
+
 <!-- ![20250922_104849](https://hackmd.io/_uploads/HyYs_bZ1bg.jpg)
 ![IMG_5782](https://hackmd.io/_uploads/B1ln_bW1-g.jpg)
 ![IMG_5780](https://hackmd.io/_uploads/SJ42OZbybe.jpg) -->
@@ -42,6 +46,7 @@ meta:
 ![](https://duk.tw/EAgx3A.jpg)
 ![](https://duk.tw/OJMtIh.jpg)
 ![](https://duk.tw/iJT63T.jpg)
+
 <!-- ![20250922_114047](https://hackmd.io/_uploads/ryqVnap1bx.jpg) -->
 <!-- ![20250922_114438](https://hackmd.io/_uploads/B1ZzKbZJWx.jpg)
 ![20250922_115128](https://hackmd.io/_uploads/B1bztbbkZe.jpg)
@@ -62,6 +67,7 @@ meta:
 ![](https://duk.tw/8TlV6R.jpg)
 ![](https://duk.tw/kyB6YJ.jpg)
 ![](https://duk.tw/r07rWl.jpg)
+
 <!-- ![1](https://hackmd.io/_uploads/BJRw5ApyWg.jpg)
 ![2](https://hackmd.io/_uploads/r1JOqCayZg.jpg)
 ![3](https://hackmd.io/_uploads/Bykd5Aakbe.jpg)
@@ -83,6 +89,7 @@ meta:
 新城區望向舊城區:
 ![](https://duk.tw/Ws124z.jpg)
 ![](https://duk.tw/4QSVLg.jpg)
+
 <!-- ![IMG_5806](https://hackmd.io/_uploads/rJLxGAakZe.jpg)
 ![IMG_5810](https://hackmd.io/_uploads/ryLeGAaybg.jpg) -->
 
@@ -118,6 +125,7 @@ meta:
 ![](https://duk.tw/1cFUL0.jpg)
 
 ## Day6
+
 今天來到了歷史課本有名的龐貝古城，與其說它是一座古城，不如說它是一座超大的公園，跟著導遊走進去，一大片的石面牆壁，遠看像廢墟一樣，像是走進了歷史一樣。
 ![](https://duk.tw/E8nMSV.jpg)
 ![](https://duk.tw/EFgALY.jpg)

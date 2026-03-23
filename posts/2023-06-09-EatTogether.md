@@ -8,7 +8,7 @@ tags:
 description: 共食文化
 meta:
   - property: og:image
-    content: https://hackmd.io/_uploads/Hyw11-xq-g.jpg
+    content: images/Hyw11-xq-g.jpg
 ---
 
 趁著快沒人關注的時候想小聊一下對蔡阿嘎事情的看法。

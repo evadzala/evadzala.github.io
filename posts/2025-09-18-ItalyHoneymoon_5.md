@@ -7,10 +7,11 @@ tags:
 description: Day9/Day10
 meta:
   - property: og:image
-    content: https://duk.tw/ymEy5y.jpg
+    content: images/ymEy5y.jpg
 ---
 
 ## Day9
+
 宮崎駿的天空之城，是一座漂浮在雲上的城鎮，而義大利也有天空之城，就在白露里冶奧的一個山丘上，山丘上有個古老的小鎮，當雲霧環繞山丘，山丘上的古老小鎮看起來就飄在空中，因此而得名天空之城，今天算是一個踏青的行程，從停車場走到天空之城有一小段路，但對於這每天都在走路的行程訓練下來，反而可以看著美景的踏青根本輕輕鬆鬆。
 ![](https://duk.tw/hZPKIx.jpg)
 ![](https://duk.tw/LZSR6z.jpg)
@@ -112,6 +113,7 @@ meta:
 ![](https://duk.tw/kgh9my.jpg)
 
 ## Day10
+
 佛羅倫斯，文藝復興的發源地、藝術與建築之都、歐洲文化中心，這城市本身就是藝術，走在阿諾河沿岸就可以感受到藝術的風拂面而來，甚至有人來拍婚紗。
 ![](https://duk.tw/Vv7a5g.jpg)
 ![](https://duk.tw/fVVSji.jpg)

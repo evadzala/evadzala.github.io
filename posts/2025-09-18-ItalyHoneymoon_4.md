@@ -7,10 +7,11 @@ tags:
 description: Day7/Day8
 meta:
   - property: og:image
-    content: https://duk.tw/FcDyv2.jpg
+    content: images/FcDyv2.jpg
 ---
 
 ## Day7
+
 一大早來到渡輪碼頭邊準備搭船到卡布里島，隔著一條馬路，一座突兀的古城彷彿盯著海邊的敵船一般，它叫做Castel Nuovo。
 ![](https://duk.tw/xin0VU.jpg)
 ![](https://duk.tw/LdzkQ8.jpg)
@@ -84,6 +85,7 @@ meta:
 ![](https://duk.tw/PDFQqG.jpg)
 
 ## Day8
+
 早安羅馬，天氣晴，今天的導遊是一位年輕小伙，用著輕鬆幽默的口吻為我們導覽羅馬，最先來到的就是最有名的羅馬競技場，從這導遊的敘述去想像以前羅馬競技場作為全民娛樂的場所，有著多少便民的設計，包含進退場路線、通風、遮陽等設計都是有計算過的，可惜這偉大的建築經過時間的摧殘而破敗不堪，外觀也有很明顯的修復痕跡，但卻不失這建築的霸氣。
 ![](https://duk.tw/sAoxcu.jpg)
 ![](https://duk.tw/uj6BvN.jpg)

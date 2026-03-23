@@ -8,7 +8,7 @@ tags:
 description: 我只是個推拿的
 meta:
   - property: og:image
-    content: https://hackmd.io/_uploads/rkdyXyl9bx.jpg
+    content: images/rkdyXyl9bx.jpg
 ---
 
 <!-- ![](https://duk.tw/DoNnN3.jpg) -->

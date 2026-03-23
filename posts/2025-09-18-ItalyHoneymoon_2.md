@@ -7,12 +7,14 @@ tags:
 description: Day3/Day4
 meta:
   - property: og:image
-    content: https://duk.tw/pPuMg5.jpg
+    content: images/pPuMg5.jpg
 ---
 
 ## Day3
+
 第二天我們前往我夢寐以求的威尼斯，也是這整趟旅程我最期待的景點，要去威尼斯本島可以驅車前往或是搭乘火車，經過解放橋就可以抵達威尼斯本島。
 ![](https://duk.tw/19UlZT.jpg)
+
 <!-- ![IMG_5433](https://hackmd.io/_uploads/Bkg1htO0el.jpg) -->
 
 抵達威尼斯本島後，基本上後需的交通工具，不是步行就是搭船，我們轉乘水上巴士前往威尼斯最著名的聖馬可廣場，沿路的風景真的不是書上可比擬的。
@@ -22,6 +24,7 @@ meta:
 ![](https://duk.tw/juKh1d.jpg)
 ![](https://duk.tw/W5uMvd.jpg)
 ![](https://duk.tw/N7znUC.jpg)
+
 <!-- ![IMG_5453](https://hackmd.io/_uploads/r1hWRKu0gx.jpg)
 ![IMG_5456](https://hackmd.io/_uploads/rJ3ZAYuAlg.jpg)
 ![IMG_5460](https://hackmd.io/_uploads/BJnb0Ku0ll.jpg)
@@ -36,6 +39,7 @@ meta:
 ![](https://duk.tw/sLNIVn.jpg)
 ![](https://duk.tw/bnAj7V.jpg)
 ![](https://duk.tw/RTl8IJ.jpg)
+
 <!-- ![IMG_5486](https://hackmd.io/_uploads/HkBkb5_Aex.jpg)
 ![IMG_5491](https://hackmd.io/_uploads/HyjJW5O0lx.jpg)
 ![IMG_5499](https://hackmd.io/_uploads/r1YeW9u0gx.jpg)
@@ -46,6 +50,7 @@ meta:
 聖馬爾谷聖殿宗主教座堂正前方，是威尼斯最大的廣場-聖馬可廣場，還有著最顯眼的地標-聖馬可鐘樓，我們跟隨領隊拐進了廣場某個角落的小巷弄，過了一座小橋就到了我們今晚下榻的飯店，穿過飯店的另一側就是河流，即可看見專業的船夫行駛著貢多拉小船，飯店的一樓外側還有可以座位區可以坐著優閒欣賞外面的景色。
 ![](https://duk.tw/NAczmx.jpg)
 ![](https://duk.tw/zDpf8B.jpg)
+
 <!-- ![IMG_5519](https://hackmd.io/_uploads/Syts0ojCgl.jpg)
 ![IMG_5522](https://hackmd.io/_uploads/H1toRojAxx.jpg) -->
 
@@ -53,6 +58,7 @@ meta:
 ![](https://duk.tw/fMGplH.jpg)
 ![](https://duk.tw/m9VJoz.jpg)
 ![](https://duk.tw/uLvyYm.jpg)
+
 <!-- ![20250920_103440](https://hackmd.io/_uploads/r17e9epAle.jpg)
 ![20250920_114717](https://hackmd.io/_uploads/SyKl9lpRel.jpg)
 ![S__60801048](https://hackmd.io/_uploads/B1x-qlaAxl.jpg) -->
@@ -62,6 +68,7 @@ meta:
 ![](https://duk.tw/feNlt7.jpg)
 ![](https://duk.tw/3m7nL7.jpg)
 ![](https://duk.tw/P66C8g.jpg)
+
 <!-- ![IMG_5542](https://hackmd.io/_uploads/SkasneaCex.jpg)
 ![IMG_5541](https://hackmd.io/_uploads/HyQ2nlTRgx.jpg)
 ![20250920_120609](https://hackmd.io/_uploads/Skc23gaAlg.jpg)
@@ -70,6 +77,7 @@ meta:
 我們的行程是繞著一個方型的區域一圈，當出了水道到了大航道的時候，瞬間的豁然開朗跟著海風迎面而來，偌大的安康聖母聖殿就在大航道的對面，大航道上佈滿了船隻，相當壯觀。
 ![](https://duk.tw/TCuCRC.jpg)
 ![](https://duk.tw/CdcBqd.jpg)
+
 <!-- ![IMG_5582](https://hackmd.io/_uploads/HJsp6ga0ge.jpg)
 ![IMG_5585](https://hackmd.io/_uploads/SyqmRxa0el.jpg) -->
 
@@ -77,18 +85,21 @@ meta:
 ![](https://duk.tw/hWTP62.jpg)
 ![](https://duk.tw/Y0LDRq.jpg)
 ![](https://duk.tw/W3ya1c.jpg)
+
 <!-- ![20250920_124539](https://hackmd.io/_uploads/ryrzx-6Age.jpg)
 ![IMG_5588](https://hackmd.io/_uploads/rJjGx-TRgg.jpg)
 ![IMG_5589](https://hackmd.io/_uploads/r1e7g-TRgg.jpg) -->
 
 中餐結束後我們跟著領隊到了大家都想去的雷利歐化妝品店，據說這牌子比在台灣買便宜很多，但因為我跟我老婆對這個品牌都沒有做功課(現在想想有點後悔而造成後面還有故事)，沒進店裡的我們只好跟著導要在外頭跟一支很可愛的牧羊犬玩。
 ![](https://duk.tw/pr8QMO.jpg)
+
 <!-- ![PXL_20250920_121814901.MP](https://hackmd.io/_uploads/HyDCiZa0xe.jpg) -->
 
 回到了聖馬可廣場，領隊叮嚀了一些事項，介紹幾家好吃的Gelato(意式冰淇淋)以後，接著就都是自由時間了，廣場上隨處可見的鴿子外，還有三家有著音樂表演的咖啡館，其中最有名的是年代超過300年的弗洛里安咖啡館，又稱花神咖啡館，老婆說來了就一定要吃一次，服務生領我們進入座位後，跟我們講解了入座費和音樂費加起來是10歐(注意!!是一個人10歐，還沒有點餐就要先花出去了OAQ)，因為剛吃完午餐沒多久也沒很餓，我點了一杯拿鐵瑪奇朵，老婆點了冰淇淋拿鐵和一塊很漂亮的水果蛋糕，反正都出來旅遊了，價格什麼的就別太在意，主要是沉浸在這上百年的咖啡館，以及外面優美的演奏，不知道是不是樂隊的人看到華人臉孔，居然演奏起望春風，我差點沒直接把小費扔出去。
 ![](https://duk.tw/2c11bY.jpg)
 ![](https://duk.tw/DpCjZr.jpg)
 ![](https://duk.tw/8pWbhU.jpg)
+
 <!-- ![IMG_5592](https://hackmd.io/_uploads/rJLon-T0gl.jpg)
 ![IMG_5596](https://hackmd.io/_uploads/B1Li2ba0eg.jpg)
 ![IMG_5597](https://hackmd.io/_uploads/SJLjhbpRgx.jpg) -->
@@ -99,6 +110,7 @@ meta:
 ![](https://duk.tw/hNuSar.jpg)
 ![](https://duk.tw/dBWs0A.jpg)
 ![](https://duk.tw/QzAn0d.jpg)
+
 <!-- ![20250920_164245](https://hackmd.io/_uploads/SJkJxMpRge.jpg)
 ![IMG_5603](https://hackmd.io/_uploads/B1gJlfTCgx.jpg)
 ![IMG_5606](https://hackmd.io/_uploads/S1lylfaAxx.jpg)
@@ -113,6 +125,7 @@ meta:
 ![](https://duk.tw/mZm8G8.jpg)
 ![](https://duk.tw/ZVAsrs.jpg)
 ![](https://duk.tw/ooxqaS.jpg)
+
 <!-- ![20250920_173508](https://hackmd.io/_uploads/SJeOHza0xl.jpg)
 ![20250920_174623](https://hackmd.io/_uploads/BkDuSGaCll.jpg)
 ![20250920_175203](https://hackmd.io/_uploads/Bk3OHMp0gx.jpg)
@@ -132,6 +145,7 @@ meta:
 ![](https://duk.tw/IiZxYH.jpg)
 ![](https://duk.tw/PH6n9W.jpg)
 ![](https://duk.tw/Btvz64.jpg)
+
 <!-- ![IMG_5658](https://hackmd.io/_uploads/SJ2bcM6Rxe.jpg)
 ![IMG_5639](https://hackmd.io/_uploads/ByGutz6Cee.jpg)
 ![IMG_5642](https://hackmd.io/_uploads/SJ9KtM6Rxl.jpg)
@@ -144,6 +158,7 @@ meta:
 ![PXL_20250920_181524135](https://hackmd.io/_uploads/BJ5htMp0gl.jpg) -->
 
 ## Day4
+
 邊看著窗外整齊的貢多拉邊吃早餐，無疑是一個優閒的享受，吃完早餐後，我們一樣寄放了行李便再度出門享受漫步威尼斯的清晨，其實我都沒有做功課，單純只是享受著漫步在威尼斯，又一陣左彎右拐後，我們來到一家很特別的書店，起初只是老婆被書店外的貓咪吸引，沒想到這間書店還沒開門就有許多遊客在外面排隊，我們也剛好遇到另一組團友，便在這家書店逛了起來，書店外面販賣著與其他伴手禮店不同的明信片，看起來都是書店老闆手繪的，除了用底片相機拍攝的威尼斯風景，還有一些是書店老闆的貓咪們的畫像，書店內居然還擺放著一艘貢多拉，被當作書架一樣擺著各種書籍，書店的中間還有一扇門通往隔壁的空間，也都是擺滿各種書籍，書店的尾端是一個有著圍牆的露天平台，重點是這個平台是用書本堆起來的，象徵著知識的力量，站上平台還可以看到水道風景，相當特別的書店，團友也幫我們拍攝一張合照留作紀念。
 ![](https://duk.tw/S2WgRm.jpg)
 ![](https://duk.tw/vWH3TF.jpg)
@@ -156,6 +171,7 @@ meta:
 ![](https://duk.tw/j3pObB.jpg)
 ![](https://duk.tw/PMtE89.jpg)
 ![](https://duk.tw/ROr8zS.jpg)
+
 <!-- ![IMG_5659](https://hackmd.io/_uploads/ryZh5rARge.jpg)
 ![20250921_085109](https://hackmd.io/_uploads/rJmp5BA0xx.jpg)
 ![20250921_090406](https://hackmd.io/_uploads/BkQ6cHCRgl.jpg)
@@ -176,6 +192,7 @@ meta:
 ![](https://duk.tw/h8K9DH.jpg)
 ![](https://duk.tw/4aQjoL.jpg)
 ![](https://duk.tw/SH7wG2.jpg)
+
 <!-- ![20250921_101240](https://hackmd.io/_uploads/HyUXgIRCeg.jpg)
 ![20250921_101956](https://hackmd.io/_uploads/r1LQlLCCxe.jpg)
 ![20250921_103139](https://hackmd.io/_uploads/BJIXxICAge.jpg) -->
@@ -183,12 +200,14 @@ meta:
 最後真的要離開威尼斯了，因為我們算錯時間所以回程幾乎都用跑的，在這錯縱複雜的巷子中奔跑，我真感謝我的方向感，沒有迷路的免強趕上。
 是說這趟行程之前，老婆為了應景，去把美甲把水星領航員中三家公司的Logo和貓咪社長的圖案印在上面，相當用心。
 ![](https://duk.tw/Hrw8yO.jpg)
+
 <!-- ![IMG_5682](https://hackmd.io/_uploads/SyJrWI0Rle.jpg) -->
 
 跟團員們集合後，我們走回剛到威尼斯島下船的地方，其實就像等公車一樣，只是領隊因為都預留了比較長的時間，所以我們只好在旁邊等待，而老婆也沒閒著，在周圍晃了一下，發現有一家店有賣她行前規劃想吃的威尼斯特產三明治-Tramezzino，再加上一杯espresso，當作在威尼斯的最後一餐。
 ![](https://duk.tw/izN7dJ.jpg)
 ![](https://duk.tw/bjvLcW.jpg)
 ![](https://duk.tw/SQfyoX.jpg)
+
 <!-- ![20250921_111334](https://hackmd.io/_uploads/BJzUGICAxl.jpg)
 ![20250921_110808](https://hackmd.io/_uploads/HJI8GUA0ll.jpg)
 ![20250921_111330](https://hackmd.io/_uploads/S1FLf8RAle.jpg) -->
@@ -198,6 +217,7 @@ meta:
 ![](https://duk.tw/QLyA4n.jpg)
 ![](https://duk.tw/qXfsbl.jpg)
 ![](https://duk.tw/bnqbDh.jpg)
+
 <!-- ![IMG_5689](https://hackmd.io/_uploads/SJtNQUAClg.jpg)
 ![IMG_5693](https://hackmd.io/_uploads/rJt4XL0Age.jpg)
 ![IMG_5694](https://hackmd.io/_uploads/BkKEmI0Cgx.jpg)
@@ -210,6 +230,7 @@ meta:
 ![](https://duk.tw/nhmvsH.jpg)
 ![](https://duk.tw/a62Vno.jpg)
 ![](https://duk.tw/AUpNpg.jpg)
+
 <!-- ![20250921_125354](https://hackmd.io/_uploads/r1mCKLA0ge.jpg)
 ![20250921_155854](https://hackmd.io/_uploads/HJN0FL0Cgl.jpg)
 ![IMG_5722](https://hackmd.io/_uploads/S1mAKU0Rel.jpg) -->
